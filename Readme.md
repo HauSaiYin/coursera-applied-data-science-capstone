@@ -2,8 +2,6 @@
 
 ## Project Title: The Battle of Neighborhoods
 
-### Author: Muhammad Hussain
-
 ---
 
 ## Introduction
